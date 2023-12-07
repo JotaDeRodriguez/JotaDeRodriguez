@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on projects that leverage computer vision technologies to solve real-world problems, particularly those that require innovative approaches to semantic reconstruction from image, video and pointcloud analisis.
   
-- 📫 You can reach me under the handle JotaDeRodriguez in both Twitter, and Discord.
+- 📫 You can reach me under the handle JotaDeRodriguez in both Twitter and Discord.
 
 <!---
 JotaDeRodriguez/JotaDeRodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
