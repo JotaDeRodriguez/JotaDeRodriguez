@@ -8,10 +8,10 @@
 
 - 💞️ I’m always looking to augment my skills in this areas. Keeping an eye out for emerging technolgies, and creative approaches to lauch projects.
 
-🐍 Python
-🏗️ Revit
-📐 AutoCAD
-🦏 Rhino
-🦗 Grasshopper
+- 🐍 Python
+- 🏗️ Revit
+- 📐 AutoCAD
+- 🦏 Rhino
+- 🦗 Grasshopper
   
 - 📫 You can reach me under the handle JotaDeRodriguez in both Twitter and Discord.
