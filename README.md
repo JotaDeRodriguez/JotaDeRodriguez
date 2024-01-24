@@ -1,14 +1,11 @@
 - 👋 Hi, I’m @JotaDeRodriguez
 
-- 👀 Designer by trade, I’m interested in exploring the world of computer vision, particularly in Structure from Motion, leveraging technologies like image recognition, machine learning algorithms, and real-time object detection. I'm also keen on integrating these technologies into practical applications in the fields of Design, Architecture and Interaction.
+- ✏️ As a Designer and 3D Specialist, currently I'm exploring the intersection of programming and architecture. My focus lies in automating and enhancing design processes using machine learning and AI, aiming to revolutionize standarized workflows in the fields of architecture and design.
 
-- 🌱 I’m currently learning advanced techniques in deep learning and neural networks, with a special focus on convolutional neural networks (CNNs). I’m also diving into various computer vision libraries and frameworks like OpenCV, TensorFlow, and PyTorch, to deepen my understanding and skills in this field.
+- 👀 My tinkering extends to computer vision, especially in Structure from Motion and Point Cloud analysis. Utilizing image recognition and machine learning algorithms, I strive to extract meaningful insights and semantic meaning from complex data, pushing the boundaries of information extraction.
 
-- 💞️ I’m looking to collaborate on projects that leverage computer vision technologies to solve real-world problems, particularly those that require innovative approaches to semantic reconstruction from image, video and pointcloud analisis.
+- 🌱 I’m currently learning advanced techniques in deep learning and neural networks, with a special focus on convolutional neural networks (CNNs). I’m also diving into various computer vision libraries and frameworks like OpenCV, Open3D, and more, to deepen my understanding and skills in this field.
+
+- 💞️ I’m always looking to augment my skills in this areas. Keeping an eye out for emerging technolgies, and creative approaches to lauch projects.
   
 - 📫 You can reach me under the handle JotaDeRodriguez in both Twitter and Discord.
-
-<!---
-JotaDeRodriguez/JotaDeRodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
