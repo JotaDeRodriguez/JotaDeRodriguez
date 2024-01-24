@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning advanced techniques in deep learning and neural networks, with a special focus on convolutional neural networks (CNNs). I’m also diving into various computer vision libraries and frameworks like OpenCV, Open3D, and more, to deepen my understanding and skills in this field.
 
 - 💞️ I’m always looking to augment my skills in this areas. Keeping an eye out for emerging technolgies, and creative approaches to lauch projects.
-- 
+
 
 - 🐍 Python
 - 🏗️ Revit
@@ -18,4 +18,4 @@
 
   
 - 📫 You can reach me under the handle JotaDeRodriguez in both Twitter and Discord.
-- 
+ 
